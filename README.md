@@ -111,7 +111,7 @@ This project reinforced a critical data science principle:
 
 For detailed methodology, experiments, and analysis:
 
-[View Full Project Report (PDF)](report.pdf)
+[View Full Project Report (PDF)](futureJobs.pdf)
 
 ---
 
